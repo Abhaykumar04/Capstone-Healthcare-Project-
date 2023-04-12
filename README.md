@@ -28,4 +28,4 @@ We applied a support vector classifier to the dataset. We used a grid search cro
 Finally, we applied a K-NN classifier to the dataset. We used a grid search cross-validation technique to tune the hyperparameters of the model.We also plotted a precision-recall curve to visualize the performance of our model.
 
 ## Conclusion
-In conclusion The results of this project can be used by healthcare professionals to develop preventative measures for patients at high risk of developing diabetes. Overall, this project demonstrates the potential of machine learning models in improving healthcare outcomes.
+In conclusion the results of this project can be used by healthcare professionals to develop preventative measures for patients at high risk of developing diabetes. Overall, this project demonstrates the potential of machine learning models in improving healthcare outcomes.
